@@ -10,16 +10,16 @@ No practice problems here.
 
 ## Chapter 3 - Functions
 
--[x] theCollatzSequence.py
+- theCollatzSequence.py
 
 ## Chapter 4 - Lists
 
--[] commaCode.py
--[] characterPictureGrid.py
+- commaCode.py
+- characterPictureGrid.py
 
 ## Chapter 5 - Dictionaries and Structuring Data
 
--[] fantasyGameInv.py
+- fantasyGameInv.py
 
 ## Feedback
 
