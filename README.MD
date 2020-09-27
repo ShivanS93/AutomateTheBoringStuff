@@ -21,7 +21,9 @@ No practice problems here.
 
 - fantasyGameInv.py
 
-## Chapter 6 
+## Chapter 6 - Manipulating Strings
+
+- tablePrinter.py
 
 ## Chapter 7
 
