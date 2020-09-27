@@ -21,6 +21,10 @@ No practice problems here.
 
 - fantasyGameInv.py
 
+## Chapter 6 
+
+## Chapter 7
+
 ## Feedback
 
 Please give any feedback. I am always willing to improve.
