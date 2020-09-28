@@ -25,7 +25,12 @@ No practice problems here.
 
 - tablePrinter.py
 
-## Chapter 7
+## Chapter 7 - Pattern Matching with Regular Expressions
+
+- strongPasswordDetection.py
+- regexVersionOfSplit.py
+
+## Chapter 8
 
 ## Feedback
 
