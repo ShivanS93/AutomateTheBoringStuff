@@ -32,6 +32,11 @@ No practice problems here.
 
 ## Chapter 8 - Reading and Writing Files
 
+- MadLibs.py
+- regexSearch.py (uses createRandomFiles.py)
+
+## Chapter 9
+
 ## Feedback
 
 Please give any feedback. I am always willing to improve.
