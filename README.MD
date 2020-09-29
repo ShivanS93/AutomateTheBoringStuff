@@ -30,7 +30,7 @@ No practice problems here.
 - strongPasswordDetection.py
 - regexVersionOfSplit.py
 
-## Chapter 8
+## Chapter 8 - Reading and Writing Files
 
 ## Feedback
 
