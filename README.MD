@@ -35,7 +35,11 @@ No practice problems here.
 - MadLibs.py
 - regexSearch.py (uses createRandomFiles.py)
 
-## Chapter 9
+## Chapter 9 - Organising Files
+
+- selectiveCopy.py
+- deletingUnneededFiles.py
+- filingInTheGaps.py (uses spam.py)
 
 ## Feedback
 
