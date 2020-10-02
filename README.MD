@@ -41,6 +41,19 @@ No practice problems here.
 - deletingUnneededFiles.py
 - filingInTheGaps.py (uses spam.py)
 
+## Chapter 10 - Debugging
+
+- debuggingCoinToss.py
+
+## Chapter 11 - Web Scraping
+
+*I did not do Image Site Downloader since this is very similiar ot the xkcd example in the book*
+
+- commandLineEmailer.py (incomplete)
+- 2048Player.py
+- linkVerfication
+
+
 ## Feedback
 
 Please give any feedback. I am always willing to improve.
