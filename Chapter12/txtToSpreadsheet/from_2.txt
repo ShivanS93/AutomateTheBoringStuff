@@ -1,0 +1,3 @@
+No! All of the paragraphs in the generator are written by humans, not computers. When first building this generator we thought about using computers to generate the paragraphs, but they weren't very good and many times didn't make any sense at all.
+
+We therefore took the time to create paragraphs specifically for this generator to make it the best that we could.

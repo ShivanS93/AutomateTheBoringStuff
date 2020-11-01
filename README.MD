@@ -53,6 +53,17 @@ No practice problems here.
 - 2048Player.py
 - linkVerfication
 
+## Chapter 12 - Working with Excel
+
+- multiplcationTableMaker.py
+- blankRowInserter.py
+- txtToSpeadsheet
+- SpreadsheetToTxt.py
+
+## Chapter 13 - Working with PDF and Word Documents
+
+-
+
 
 ## Feedback
 

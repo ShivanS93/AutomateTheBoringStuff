@@ -19,7 +19,7 @@ def main():
 
     checked_links = []
 
-    path = 'website'
+    path = 'Chapter11\\website'
 
     os.makedirs(path, exist_ok=True)
 
