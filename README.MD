@@ -62,7 +62,9 @@ No practice problems here.
 
 ## Chapter 13 - Working with PDF and Word Documents
 
--
+- pdfParanoia.py
+
+## Chapter 14
 
 
 ## Feedback
