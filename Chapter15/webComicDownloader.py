@@ -30,7 +30,7 @@ imageURL = imgElem[0].get('src')
 res = requests.get(imageURL)
 res.raise_for_status()
 
-# save image file to desktop
+# save image file to file location
 
 logging.debug("Successful")
 imageFile = open(os.path.join(savePath,os.path.basename(imageURL)), 'wb')
