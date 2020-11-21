@@ -75,6 +75,8 @@ No practice problems here.
 - prettifiedStopwatch.py
 - webComicDownloader.py
 
+### Chapter 16 - Sending Email and Text Messages
+
 ## Feedback
 
 Please give any feedback. I am always willing to improve.
